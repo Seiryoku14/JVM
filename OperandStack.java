@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package OperandStack;
 import Value.*;
 import java.io.*;
@@ -178,9 +177,3 @@ public class OperandStack {
 
 
 }
-
-
-	    
-=======
-
->>>>>>> a794aa10c1061b65f2e142cb1469c5bcecaf64bb
